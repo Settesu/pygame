@@ -2,7 +2,7 @@ import pygame
 import time
 import random
 
-# To initialize the game
+# To initialize the game.
 pygame.init()
 
 # Colors
